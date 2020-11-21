@@ -1,0 +1,4 @@
+start - Da un mensaje de bienvenida   
+help - Muestra un mensaje de ayuda  
+hora - Muestra la hora   
+meme - Muestra una imagen de un meme
